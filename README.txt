@@ -1,4 +1,4 @@
-Basic website that runs on localhost and handles HTTP Methods: GET and HOST
+Basic website that runs on localhost and handles HTTP Methods: GET and POST
 
 To setup, enter 
 	npm install
